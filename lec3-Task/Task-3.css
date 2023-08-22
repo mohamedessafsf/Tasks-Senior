@@ -1,0 +1,16 @@
+/*
+padding: ??
+margin: ??
+*/
+body
+{
+    background-image: url("../lec3-Task/Task-img/neom-fYTVHcpak2g-unsplash.jpg");
+    background-size: cover;
+}
+div
+{
+    background-color:#0000006e;
+    width: 500px;
+    height: 150px;
+    color: #e1ac7b;
+}

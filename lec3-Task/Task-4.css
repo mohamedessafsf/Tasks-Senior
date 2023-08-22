@@ -1,0 +1,23 @@
+/*
+    padding ??
+    margin ??
+*/
+body
+{
+    background-image: url('../lec3-Task/Task-img/bg-masthead.jpg');
+    background-size:100% 100%;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}
+.div-1
+{
+    margin: -21px -8px;
+    width: 102%;
+    height:650px;
+    background-color: #000000b8;
+}
+.div-2
+{
+    width: 500px;
+    color: white;
+}
