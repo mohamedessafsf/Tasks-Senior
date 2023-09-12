@@ -1,0 +1,124 @@
+.parent-1
+{
+    width: 101%;
+    height: 500px;
+    background-color: blue;
+    color:white;
+    background-image: url("../Task-1/img/background-01.jpg");
+    margin-top: -15px;
+    margin-left: -10px;
+    padding: 10px;
+}
+aside
+{
+    background-color: #0000008a;
+    width: 90%;
+    padding: 5px;
+    margin-left: 5%;
+    margin-top: 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left: 150px;    
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+section
+{
+    margin-left: 70px;
+    margin-top: 60px;
+    max-width: 400px;
+}
+.some-2
+{
+    background-color: green;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+/*------------------------------------------------*/
+.parent-2
+{
+    margin-top: -100px;
+    margin-left: 115px;
+}
+.parent-2 div
+{
+    display: inline-block;
+}
+h1
+{
+    margin-left: 25%;
+}
+p
+{
+    width: 350px;  
+    margin-left: 2%;  
+    text-align: center;
+}
+.parent-2 .div-2
+{
+    margin-left: 90px;
+}
+.parent-2 .div-3
+{
+    margin-left: 90px;
+}
+.parent-2 .div-5
+{
+    margin-left: 90px;
+}
+.parent-2 .div-6
+{
+    margin-left: 90px;
+}
+/*--------------------------------------------------------*/
+.parent-3
+{
+    background-color: #ddd;
+}
+.parent-3 div
+{
+    display: inline-block;
+    margin-left: 115px;
+}
+.parent-3 .div-2
+{
+    margin-left: 90px;
+}
+.parent-3 .div-3
+{
+    margin-left: 90px;
+}
+h3
+{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 25%;
+}
+i
+{
+    font-size: 80px;
+    color: green;
+    margin-left: 100px;
+}
+
